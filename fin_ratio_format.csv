@@ -1,0 +1,72 @@
+column_desc,column,rule,color
+Altman Z Score,Altman Z Scr,Cell Value >3,green
+Altman Z Score,Altman Z Scr,Cell Value between 0.001 and 1.8,red
+Altman Z Score,Altman Z Scr,Cell Value between 1.8 and 3,yellow
+Asset Turnover Ratio,Asset Turnover,Graded Color Scale,red to green
+Average return on equity 3Years,ROE 3Yr %,Graded Color Scale,red to green
+Cash from operations last year,CF Operations Rs.Cr.,Cell Value < 0,red
+Cash from operations last year,CF Operations Rs.Cr.,Cell Value > 0,green
+Change in DII holding,Chg in DII Hold %,Cell Value < 0,red
+Change in DII holding,Chg in DII Hold %,Cell Value > 0,green
+Change in FII holding,Chg in FII Hold %,Cell Value < 0,red
+Change in FII holding,Chg in FII Hold %,Cell Value > 0,green
+Change in promoter holding,Change in Prom Hold %,Cell Value < 0,red
+Change in promoter holding,Change in Prom Hold %,Cell Value > 0,green
+Change in promoter holding 3Years,Chg in Prom Hold 3Yr %,Cell Value < 0,red
+Change in promoter holding 3Years,Chg in Prom Hold 3Yr %,Cell Value > 0,green
+Current price to Graham number,Curr price to Graham,Cell Value between 0 and 1,green
+Current price to Graham number,Curr price to Graham,Cell Value not between 0 and 1,red
+Current price to Graham number,Curr price to Graham,Cell Value=0,white
+Current price to Intrinsic value,Cur price to Int val,Cell Value between 0 and 1,green
+Current price to Intrinsic value,Cur price to Int val,Cell Value not between 0 and 1,red
+Current price to Intrinsic value,Cur price to Int val,Cell Value=0,white
+Debt to equity,Debt / Eq,Cell Value < 1,green
+Debt to equity,Debt / Eq,Cell Value >1,red
+Debt to equity,Debt / Eq,Cell Value=0,white
+Dividend Payout Ratio,Dividend Payout %,Graded Color Scale,red to green
+Dividend yield,Div Yld %,Graded Color Scale,red to green
+EBIT,EBIT 12M Rs.Cr.,Cell Value < 0,red
+EBIT,EBIT 12M Rs.Cr.,Cell Value > 0,green
+EVEBITDA,EV / EBITDA,Cell Value <= 10,green
+EVEBITDA,EV / EBITDA,Cell Value > 10,red
+EVEBITDA,EV / EBITDA,Cell Value=0,white
+Expected quarterly sales growth,Exp Qtr Sales Var %,Graded Color Scale,red to green
+Free cash flow 3years,Free Cash Flow 3Yrs Rs.Cr.,Cell Value < 0,red
+Free cash flow 3years,Free Cash Flow 3Yrs Rs.Cr.,Cell Value > 0,green
+Free cash flow last year,Free Cash Flow Rs.Cr.,Cell Value < 0,red
+Free cash flow last year,Free Cash Flow Rs.Cr.,Cell Value > 0,green
+G Factor,G Factor,Cell Value > 6,green
+G Factor,G Factor,Cell Value between 0.001 and 4,red
+G Factor,G Factor,Cell Value between 4 and 6,yellow
+Interest Coverage Ratio,Int Coverage,Cell Value < 2,red
+Interest Coverage Ratio,Int Coverage,Cell Value > 2,green
+Interest Coverage Ratio,Int Coverage,Cell Value=0,white
+Inventory turnover ratio,Inven TO,Graded Color Scale,red to green
+Net cash flow last year,Net CF Rs.Cr.,Cell Value < 0,red
+Net cash flow last year,Net CF Rs.Cr.,Cell Value > 0,green
+Net Profit latest quarter,NP Qtr Rs.Cr.,Cell Value < 0,red
+Net Profit latest quarter,NP Qtr Rs.Cr.,Cell Value > 0,green
+Operating cash flow 3years,CF Opr 3Yrs Rs.Cr.,Cell Value < 0,red
+Operating cash flow 3years,CF Opr 3Yrs Rs.Cr.,Cell Value > 0,green
+PEG Ratio,PEG,Cell Value between 0 and 1,green
+PEG Ratio,PEG,Cell Value not between 0 and 1,red
+PEG Ratio,PEG,Cell Value=0,white
+Piotroski score,Piotski Scr,Cell Value > 6,green
+Piotroski score,Piotski Scr,Cell Value between 0.001 and 4,red
+Piotroski score,Piotski Scr,Cell Value between 4 and 6,yellow
+Price to book value,CMP / BV,Graded Color Scale,blue to grey
+Price to Earning,P/E,Graded Color Scale,blue to grey
+Price to Sales,CMP / Sales,Graded Color Scale,blue to grey
+Profit after tax,PAT 12M Rs.Cr.,Cell Value < 0,red
+Profit after tax,PAT 12M Rs.Cr.,Cell Value > 0,green
+Profit growth,Profit growth %,Graded Color Scale,red to green
+Profit growth 3Years,Profit Var 3Yrs %,Graded Color Scale,red to green
+Return on assets,ROA 12M %,Graded Color Scale,red to green
+Return on assets 3years,ROA 3Yr %,Graded Color Scale,red to green
+Return on capital employed,ROCE %,Graded Color Scale,red to green
+Return on equity,ROE %,Graded Color Scale,red to green
+ROCE3yr avg,ROCE3yr avg %,Graded Color Scale,red to green
+Sales growth,Sales growth %,Graded Color Scale,red to green
+Sales growth 3Years,Sales Var 3Yrs %,Graded Color Scale,red to green
+YOY Quarterly profit growth,Qtr Profit Var %,Graded Color Scale,red to green
+YOY Quarterly sales growth,Qtr Sales Var %,Graded Color Scale,red to green
